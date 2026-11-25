@@ -2,7 +2,6 @@
 
 Speech audio that powers the pronunciation on **https://313multilanguage.org**.
 
-- **`lb/ex/`** — Luxembourgish, spoken by 313 Multilanguage's own trained text-to-speech voice (over 340,000 clips).
 - **`ar/`** — Arabic dictionary audio.
 
 ## Copyright & usage policy
